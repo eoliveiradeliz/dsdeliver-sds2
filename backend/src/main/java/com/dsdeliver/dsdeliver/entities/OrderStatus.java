@@ -2,6 +2,6 @@ package com.dsdeliver.dsdeliver.entities;
 
 public enum OrderStatus {
 	
-	PENDING, DELIVERES;
+	PENDING, DELIVERED;
 
 }
